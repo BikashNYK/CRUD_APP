@@ -2,13 +2,13 @@ const initialState = [
     {
         id : 0,
         name: "Bikash Nayak",
-        number : 7001791903,
+        number : 123654789,
         email : "bkn@g.com"
     },
     {
         id : 1,
         name: "Vikash Paswan",
-        number : 4564546538,
+        number : 2552687412,
         email: "test@test.com"
     }
 ]
